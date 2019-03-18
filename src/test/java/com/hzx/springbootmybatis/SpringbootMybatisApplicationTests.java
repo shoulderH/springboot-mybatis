@@ -11,6 +11,8 @@ public class SpringbootMybatisApplicationTests {
 
 	@Test
 	public void contextLoads() {
+
+
 	}
 
 }
